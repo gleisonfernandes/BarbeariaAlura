@@ -8,7 +8,7 @@
 ## 💻 Sobre o Projeto
 
 <p align="justify">Este projeto consiste em uma aplicação web responsiva desenvolvida durante a etapa de de aprendizagem do Programa de Formação - Desenvolve 2023.
-O <strong>Alurinha</strong> é um projeto criado nos cursos HTML E CSS Parte 1, 2, 3 e 4, idealizada no ambito educacional, para o processo de aprendizagem das tecnologias em volvidades.</p>
+A <strong>Barbearia Alura</strong> é um projeto criado nos cursos HTML E CSS Parte 1, 2, 3 e 4, idealizada no ambito educacional, para o processo de aprendizagem das tecnologias em volvidades.</p>
 
 ---
 
