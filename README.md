@@ -1,6 +1,3 @@
-# BarbeariaAlura
-Barbearia Alura é um projeto dos cursos HTML E CSS Parte 1, 2  ,3 e 4 a fim de explorar as funções de cada uma das propriedades das linguagens HTML e CSS, e como usá-las
-
 <div align="center">
  <h1>Programa de Formação - Desenvolve 2023</h1>
  <h2>Barbearia Alura<h2>
